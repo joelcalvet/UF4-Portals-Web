@@ -54,9 +54,21 @@ Aquest pas l'he fet amb els altres cursos també.
 ![Selecció_571](https://user-images.githubusercontent.com/114162327/212107158-c876e57b-3899-4adc-8c76-b63eb7c46cee.png)
 
 12. Afegeix a tots els alumnes a tots els cursos (els 5).
-13. Mostra l'apartat Participants de cada curs.
-14. Què són les Cohorts? 
-15. Perquè serveixen?
-16. Què són els grups?
+14. Mostra l'apartat Participants de cada curs.
+15. Què són les Cohorts? 
+
+Les cohorts són grups de tot el lloc o d'una categoria.
+
 17. Perquè serveixen?
-18. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
+
+El propòsit dels cohorts es permetre als membres ser inscrits fàcilment a un curs.
+
+19. Què són els grups?
+
+És a on s'agrupen els usuaris.
+
+21. Perquè serveixen?
+
+Serveixen per que els professors puguin filtrar als alumnes.
+
+23. Fes dos grups de Aplicacions Web, el A i el B. Mostra els dos grups.
