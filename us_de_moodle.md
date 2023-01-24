@@ -99,14 +99,49 @@ La tasca es qualifica automàticament.
 
 
 - Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho [així](https://moodle.org/mod/forum/discuss.php?d=323745).
+
+![Selecció_620](https://user-images.githubusercontent.com/114162327/214332379-a984af23-ea6f-4809-b71d-b7179e922368.png)
+
+No he fet la comprovació perquè quan ho he fet estava a casa.
+
 - Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
   - Tinguin mínim 10 caràcters.
   - Tinguin 2 dígits.
   - Tinguin 3 maiúscules.
 
+![Selecció_619](https://user-images.githubusercontent.com/114162327/214332601-469a2ed3-4c01-4a01-b328-6bdccf469a63.png)
+
+
 # Plugins:
 
 - Instal·la 2 [plugins](https://moodle.org/plugins/) de Moodle i explica què fan.
+
+![Selecció_621](https://user-images.githubusercontent.com/114162327/214332666-5a3fc700-2020-4e1c-8697-23ffd092b459.png)
+
+![Selecció_622](https://user-images.githubusercontent.com/114162327/214332721-6c645e44-0d2e-4399-947c-77685584285d.png)
+
+Es tenen que canviar els permisos de la carpeta blocks al servidor per a poder instalar els pluguins.
+
+![Selecció_623](https://user-images.githubusercontent.com/114162327/214333037-e54fcb0c-8628-4f57-9ae2-f56cc4dc589a.png)
+
+![Selecció_624](https://user-images.githubusercontent.com/114162327/214333873-e18138c7-3da7-4840-98e2-dcf00fca2c88.png)
+
+El pluguin open ai chat permet tindre una inteligencia artificial als missatges del Moodle, no ho demostro perquè es té que pagar per a utilitzar-lo.
+
+![Selecció_625](https://user-images.githubusercontent.com/114162327/214337355-fa4cb9b3-44b3-4e28-b93c-b0d0f31cc3c6.png)
+
+Per a instalar el pluguin Moodle Benchmark es tenen que canviar els permisos de la carpeta reports.
+
+![Selecció_626](https://user-images.githubusercontent.com/114162327/214337785-32d769c0-3a58-4f3b-a5c8-bef827a58bc8.png)
+
+Moodle Benchmark permet fer testos de l'estat de la pataforma, hi han 5 grups de proves:
+
+- La rapidesa del servidor.
+- La rapidesa del procesador.
+- La rapidesa del disc dur.
+- La rapidesa de la base de dades.
+- La rapidesa com carrega la pàgina.
+
 
 # Personalització del tauler d'usuaris:
 
@@ -115,7 +150,15 @@ La tasca es qualifica automàticament.
 Canvia el tauler d'usuaris.
 
 - Afegeix a dalt de tot "Cursos visitats recentment".
+
+![Selecció_628](https://user-images.githubusercontent.com/114162327/214346429-1edcc9a7-e6b5-4a76-b82c-48946bca88f5.png)
+
 - Afegeix a baix de tot "Usuaris en línia".
+
+![Selecció_629](https://user-images.githubusercontent.com/114162327/214346275-37f8a892-4720-4a77-b67c-1d5e96289d8a.png)
+
+He desactivat la opció Online status hiding.
+
 
 # Canvia el tema del Moodle:
 
